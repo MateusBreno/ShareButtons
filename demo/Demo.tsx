@@ -12,35 +12,35 @@ function Demo () {
         <div>
           <div className="gallery">
             <img
-              src="https://4kwallpapers.com/images/wallpapers/porsche-963-prototype-hybrid-sports-car-2022-4488x2993-8326.jpeg"
+              src="https://i.pinimg.com/736x/2e/99/e4/2e99e41f266a8e51fbd344a90960d8a4.jpg"
               width="300"
               alt="tigre"
             />
-            <ShareBar url="https://4kwallpapers.com/images/wallpapers/porsche-963-prototype-hybrid-sports-car-2022-4488x2993-8326.jpeg"></ShareBar>
+            <ShareBar url="https://i.pinimg.com/736x/2e/99/e4/2e99e41f266a8e51fbd344a90960d8a4.jpg"></ShareBar>
           </div>
           <div className="gallery">
             <img
-              src="https://4kwallpapers.com/images/wallpapers/mercedes-amg-one-hybrid-sports-car-hybrid-electric-cars-2022-3840x3307-8334.jpg"
+              src="https://c4.wallpaperflare.com/wallpaper/323/372/925/lamborghini-car-lamborghini-aventador-vehicle-wallpaper-preview.jpg"
               width="300"
               alt="tigre"
             />
-            <ShareBar url="https://4kwallpapers.com/images/wallpapers/mercedes-amg-one-hybrid-sports-car-hybrid-electric-cars-2022-3840x3307-8334.jpg"></ShareBar>
+            <ShareBar url="https://c4.wallpaperflare.com/wallpaper/323/372/925/lamborghini-car-lamborghini-aventador-vehicle-wallpaper-preview.jpg"></ShareBar>
           </div>
           <div className="gallery">
             <img
-              src=" https://4kwallpapers.com/images/wallpapers/chevrolet-corvette-c8-sports-cars-supercars-5k-6200x4748-8299.jpg"
+              src="https://c4.wallpaperflare.com/wallpaper/659/406/505/brown-and-green-mountains-under-white-and-blue-sky-wallpaper-preview.jpg"
               width="300"
               alt="tigre"
             />
-            <ShareBar url="https://4kwallpapers.com/images/wallpapers/chevrolet-corvette-c8-sports-cars-supercars-5k-6200x4748-8299.jpgall"></ShareBar>
+            <ShareBar url="https://c4.wallpaperflare.com/wallpaper/659/406/505/brown-and-green-mountains-under-white-and-blue-sky-wallpaper-preview.jpgall"></ShareBar>
           </div>
           <div className="gallery">
             <img
-              src="https://4kwallpapers.com/images/wallpapers/ducati-v21l-motoe-prototype-electric-sports-bikes-electric-8256x5504-8269.jpg"
+              src="https://wallpapercave.com/wp/wp2707526.jpg"
               width="300"
               alt="tigre"
             />
-            <ShareBar url="https://4kwallpapers.com/images/wallpapers/ducati-v21l-motoe-prototype-electric-sports-bikes-electric-8256x5504-8269.jpg"></ShareBar>
+            <ShareBar url="https://wallpapercave.com/wp/wp2707526.jpg"></ShareBar>
           </div>
         </div>
       );
